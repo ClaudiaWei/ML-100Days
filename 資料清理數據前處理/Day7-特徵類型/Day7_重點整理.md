@@ -27,8 +27,8 @@
 4. 時間型特徵：特殊之處在於有週期性 
 
 ## 延伸閱讀
-1. [Python Tutorial 第二堂 - 數值與字串型態](https://www.cupoy.com/marathon-mission/0000017705894B9C000000036375706F795F72656C656173654355/0000017715038629000000076375706F795F70726572656C656173654349/)
+1. [Python Tutorial 第二堂 - 數值與字串型態](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
 - 焦點主要在於：搭配一些 python 語法，展示型態的差異。
 
-2. [Built-in Types Python 官方說明](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
+2. [Built-in Types Python 官方說明](https://docs.python.org/3/library/stdtypes.html)
 - 這份官方網頁內容資料則是從語言的角度，列舉這些型態，以及對應的操作，因為是官方網頁，會隨著版本更新而略有修改，有需要的時候(例如版本變更)，再來查詢即可。
