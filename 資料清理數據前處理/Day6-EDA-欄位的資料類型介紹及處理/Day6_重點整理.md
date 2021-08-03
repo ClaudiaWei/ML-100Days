@@ -21,7 +21,7 @@
 
 ## 延伸閱讀
 [Label Encoder vs. One Hot Encoder in Machine Learning](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
-- 閱讀後重點整理：
+- 閱讀重點整理：
     - Label encoding: 把每個類別 mapping 到某個整數，不會增加新欄位
         - 運行這段程式碼後，若查看 x 的值，會看到第一列中的三個國家已被 0、1 和 2 替換。
         > from sklearn.preprocessing import LabelEncoder

@@ -52,6 +52,6 @@ arr = pickle.load(f)
 
 ### 延伸閱讀
 1. [Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-    - 閱讀後重點整理：
+    - 閱讀重點整理：
 
 2. [Github repo](https://github.com/guipsamora/pandas_exercises)

@@ -38,6 +38,6 @@
 ## 延伸閱讀
 1. [Pandas 官方 Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Cheat Sheet](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
--  閱讀整理：
+-  閱讀重點整理：
     - 實際經驗中使用過將dataframe存入DB：df.to_sql('table_name', engine, if_exists = 'append', index = true)
     - df.iloc：by position, df.loc：by label
